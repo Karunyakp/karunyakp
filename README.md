@@ -8,7 +8,7 @@ I'm a Computer Science student who’s obsessed with tech, passionate about prob
 
 🧠 **Curious Learner:** I believe every error message is just a plot twist in my coding journey.  
 💡 **Creative Thinker:** I love blending logic with innovation to build cool stuff.  
-🎯 **Future Goal:** Crack GATE CSE with flair and build tech that actually makes a difference.  
+🎯 **Future Goal:** To build tech that actually makes a difference.  
 
 ### 🔥 Currently...  
 - 🌱 Exploring **Data Structures**, **Algorithms**, and **Web Development**.  

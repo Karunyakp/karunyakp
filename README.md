@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Karunya!  
-### 💻 Aspiring Software Engineer | ⚙️ Tech Explorer | 🎯 GATE CSE 2027 Aspirant  
+### 💻 Aspiring Software Engineer | ⚙️ Tech Explorer | Coding Aficionado
 
-> _"Writing code with logic, learning with curiosity, and vibing with ambition."_  
+> _"Writing code with logic, learning with curiosity, and vibing with ambition."_
 
 ### 🚀 About Me  
 I'm a Computer Science student who’s obsessed with tech, passionate about problem-solving, and always hunting for new things to learn.  

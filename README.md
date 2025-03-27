@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I'm Karunya!  
+### 💻 Aspiring Software Engineer | ⚙️ Tech Explorer | 🎯 GATE CSE 2027 Aspirant  
 
-<!--
-**Karunyakp/karunyakp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _"Writing code with logic, learning with curiosity, and vibing with ambition."_  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+I'm a Computer Science student who’s obsessed with tech, passionate about problem-solving, and always hunting for new things to learn.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Curious Learner:** I believe every error message is just a plot twist in my coding journey.  
+💡 **Creative Thinker:** I love blending logic with innovation to build cool stuff.  
+🎯 **Future Goal:** Crack GATE CSE with flair and build tech that actually makes a difference.  
+
+### 🔥 Currently...  
+- 🌱 Exploring **Data Structures**, **Algorithms**, and **Web Development**.  
+- 🏗️ Working on mini-projects to sharpen my skills.  
+- 📚 Building a GATE-ready knowledge bank — because future me deserves solid notes.  
+
+### 🛠️ Tech Arsenal  
+**Languages:** Python | C | C++  
+**Tools:** VS Code | Git | Linux  
+**Interests:** Problem Solving | Open Source | Tech Innovation  
+
+### 📂 Projects in Progress  
+🚀 **Portfolio Website** — My digital stage to flaunt skills and achievements.  
+💻 **DSA Practice Hub** — Documenting my coding journey, one problem at a time.  
+📒 **Tech Notes Repository** — Crisp, exam-ready notes for GATE CSE concepts.  
+
+### 🌟 Fun Fact  
+I run on **Boost**, binge-watch K-dramas for life lessons, and firmly believe debugging is just *detective work for developers*.  
+
+### 📫 Let's Connect!  
+[LinkedIn](https://www.linkedin.com/in/karunya-k-p-2baa00331) • [GitHub](https://github.com/Karunyakp) • [Email](karunyayashu6@gmail.com)

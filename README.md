@@ -25,8 +25,5 @@ I'm a Computer Science student who’s obsessed with tech, passionate about prob
 💻 **DSA Practice Hub** — Documenting my coding journey, one problem at a time.  
 📒 **Tech Notes Repository** — Crisp, exam-ready notes for GATE CSE concepts.  
 
-### 🌟 Fun Fact  
-I run on **Boost**, binge-watch K-dramas for life lessons, and firmly believe debugging is just *detective work for developers*.  
-
 ### 📫 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/karunya-k-p-2baa00331) • [GitHub](https://github.com/Karunyakp) • [Email](karunyayashu6@gmail.com)

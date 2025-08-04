@@ -2,7 +2,6 @@
 ### 💻 Aspiring Software Engineer | ⚙️ Tech Explorer | Coding Aficionado
 
 > _"Writing code with logic, learning with curiosity, and vibing with ambition."_
-
 ### 🚀 About Me  
 I'm a Computer Science student who’s obsessed with tech, passionate about problem-solving, and always hunting for new things to learn.  
 
@@ -12,8 +11,7 @@ I'm a Computer Science student who’s obsessed with tech, passionate about prob
 
 ### 🔥 Currently...  
 - 🌱 Exploring **Data Structures**, **Algorithms**, and **Web Development**.  
-- 🏗️ Working on mini-projects to sharpen my skills.  
-- 📚 Building a GATE-ready knowledge bank — because future me deserves solid notes.  
+- 🏗️ Working on mini-projects to sharpen my skills.   
 
 ### 🛠️ Tech Arsenal  
 **Languages:** Python | C | C++  

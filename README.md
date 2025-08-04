@@ -20,8 +20,7 @@ I'm a Computer Science student who’s obsessed with tech, passionate about prob
 
 ### 📂 Projects in Progress  
 🚀 **Portfolio Website** — My digital stage to flaunt skills and achievements.  
-💻 **DSA Practice Hub** — Documenting my coding journey, one problem at a time.  
-📒 **Tech Notes Repository** — Crisp, exam-ready notes for GATE CSE concepts.  
+💻 **DSA Practice Hub** — Documenting my coding journey, one problem at a time.
 
 ### 📫 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/karunya-k-p-2baa00331) • [GitHub](https://github.com/Karunyakp) • [Email](karunyayashu6@gmail.com)
